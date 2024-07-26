@@ -10,7 +10,7 @@ What You'll Find Here:
 
 Why Explore This Portfolio?
 
-1. Skills Demonstrated: Gain insights into my proficiency in Python, R, machine learning libraries (such as Scikit-learn, TensorFlow), statistical analysis, and data visualization tools (like Matplotlib, Seaborn).
+1. Skills Demonstrated: Gain insights into my proficiency in Python, machine learning libraries (such as Scikit-learn, TensorFlow), statistical analysis, and data visualization tools (like Matplotlib, Seaborn).
 
 2. Problem Solving: See how I approach real-world problems using data-driven methodologies, from data preprocessing and exploratory analysis to model building and evaluation.
 
